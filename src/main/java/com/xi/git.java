@@ -11,5 +11,6 @@ public class git {
         System.out.println("push master");
         System.out.println("pool master");
         System.out.println("gitee push master");
+        System.out.println("gitee poll master");
     }
 }
