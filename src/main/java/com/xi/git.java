@@ -10,5 +10,6 @@ public class git {
         System.out.println("five hot-fix");
         System.out.println("push master");
         System.out.println("pool master");
+        System.out.println("gitee push master");
     }
 }
